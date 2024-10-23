@@ -36,6 +36,8 @@ Previously, I graduated with a [BS in Control Engineering and Automation--Talent
 
 My primary GitHub account (xkhainguyen) is not available at the momment.
 
+<br>
+
 <h2>research</h2>
 
 My research focuses on the intersection of control theory, numerical optimization, and machine learning, aiming to create novel theoretical frameworks and efficient computational machinery for modeling and decision-making in **open-world agile and safe robotics**.
