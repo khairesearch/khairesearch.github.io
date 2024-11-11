@@ -1,6 +1,7 @@
 <div class="col">
   <a href="{% if project.redirect %}{% if project.redirect == 'none' %}{% else %}{{ project.redirect }}{% endif %}{% else %}{{ project.url | relative_url }}{% endif %}">
-    <div class="card h-100 hoverable">
+    <div class="card h-100 {% if project.redirect != 'none' %}hoverable{% endif %}">
+
       {% if project.img %}
         {%
           include figure.liquid
