@@ -1,13 +1,22 @@
 <div class="col">
-  <a href="{% if project.redirect %}{% if project.redirect == 'none' %}{% else %}{{ project.redirect }}{% endif %}{% else %}{{ project.url | relative_url }}{% endif %}">
+  <a 
+    {% if project.redirect %}
+      {% if project.redirect == "none" %}
+        style="cursor: default; pointer-events: none;"
+      {% else %}
+        href="{{ project.redirect }}"
+      {% endif %}
+    {% else %}
+      href="{{ project.url | relative_url }}"
+    {% endif %}
+  >
     <div class="card h-100 {% if project.redirect != 'none' %}hoverable{% endif %}">
-
       {% if project.img %}
         {%
           include figure.liquid
           loading="eager"
           path=project.img
-          sizes = "250px"
+          sizes="250px"
           alt="project thumbnail"
           class="card-img-top"
         %}

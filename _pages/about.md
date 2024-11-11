@@ -34,12 +34,12 @@ Previously, I graduated with a [BS in Control Engineering and Automation--Talent
   GitHub
 </p>
 
-My primary GitHub account (xkhainguyen) is not available at the momment.
+My primary GitHub account (@xkhainguyen) is temporarily unavailable.
 
 <br>
 
 <h2>research</h2>
 
-My research focuses on the intersection of control theory, numerical optimization, and machine learning, aiming to create novel theoretical frameworks and efficient computational machinery for modeling and decision-making in **open-world agile and safe robotics**.
+My PhD goal is to address fundamental robotics problems where I can **(i) leverage structure for efficient and generalizable modeling and decision-making**, e.g. contact-rich manipulation, and **(ii) close the loop between offline design and online adaptation**, e.g. sim<->real. I am driven by structured scaling for robot learning to enable data efficiency, high performance, and out-of-distribution generalization—key steps toward achieving embodied intelligence
 
 <strong><span style="color:tomato">I am seeking PhD positions beginning Fall 2025!</span></strong>

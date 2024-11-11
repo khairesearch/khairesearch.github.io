@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: take a look at what I've got involved in
+description: take a look at what I've got involved in <br> *some projects are temporarily unavailable due to a GitHub issue.
 nav: true
 nav_order: 2
 display_categories: [lab, class, online, misc]
