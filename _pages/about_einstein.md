@@ -40,6 +40,6 @@ My primary GitHub account (@xkhainguyen) is temporarily unavailable.
 
 <h2>research</h2>
 
-My PhD goal is to address fundamental robotics problems where I can **(i) leverage structure for efficient and generalizable modeling and decision-making**, e.g. contact-rich manipulation, and **(ii) close the loop between offline design and online adaptation**, e.g. sim<->real. I am driven by **structured scaling** for robot learning to enable data efficiency, high performance, and out-of-distribution generalization—key steps toward achieving embodied intelligence.
+My PhD goal is to address fundamental robotics problems where I can **(i) leverage structure for efficient and generalizable modeling and decision-making**, e.g. contact-rich manipulation, and <strong>(ii) close the loop between offline design and online adaptation</strong>, e.g. sim<->real. I am driven by structured scaling for robot learning to enable data efficiency, high performance, and out-of-distribution generalization—key steps toward achieving embodied intelligence
 
-**<span style="color:tomato">I am seeking PhD positions beginning Fall 2025!</span>**
+<strong><span style="color:tomato">I am seeking PhD positions beginning Fall 2025!</span></strong>

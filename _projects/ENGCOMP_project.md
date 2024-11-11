@@ -3,7 +3,7 @@ layout: page
 title: Blasteroids
 description: "CMU 24-780: Engineering Computation - Fall 23.<br> 🕹️ Blasteroids: Blast the Asteroids -- A Game Development Project"
 img: assets/img/blast.png
-importance: 2
+importance: 4
 redirect: none #https://github.com/xkhainguyen/blasteroids
 category: class
 ---
