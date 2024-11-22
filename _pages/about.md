@@ -22,24 +22,23 @@ I graduated from the [MS in Mechanical Engineering--Research](https://www.meche.
 
 <!-- I am a [Vingroup Scholar](https://scholarships.vinuni.edu.vn/) with the mission to lead and advance the development of science and technology in Vietnam in the future. -->
 
-Previously, I graduated with a [BS in Control Engineering and Automation--Talent Program](https://seee.hust.edu.vn/en_US/talented) from [Hanoi University of Science and Technology (HUST)](https://en.hust.edu.vn/). I have ~2 years of experience in autopilot systems with Viettel Aerospace Institute.
+Previously, I graduated with a [BS in Control Engineering and Automation--Talent Program](https://seee.hust.edu.vn/en_US/talented) from [Hanoi University of Science and Technology](https://en.hust.edu.vn/). I have ~2 years of experience in autopilot systems with Viettel Aerospace Institute.
 
 <p style="text-align:center">
   <a href="mailto:khai.nx1201@gmail.com">Email</a> &nbsp;/&nbsp;
   <a href="../assets/pdf/CV_Khai.pdf">CV</a> &nbsp;/&nbsp;
-  <!-- <a href="data/JonBarron-bio.txt">Bio</a> &nbsp;/&nbsp; -->
+  <a href="https://github.com/xkhainguyen">GitHub</a> &nbsp;/&nbsp;
   <a href="https://scholar.google.com/citations?user=ex03GKkAAAAJ&hl=en">Google Scholar</a> &nbsp;/&nbsp;
   <a href="https://www.linkedin.com/in/khainx">LinkedIn</a> &nbsp;/&nbsp;
-  <a href="https://x.com/khainguyenx">X</a> &nbsp;/&nbsp;
-  GitHub
+  <a href="https://x.com/khainguyenx">X</a>
 </p>
-
-My primary GitHub account (@xkhainguyen) is temporarily unavailable.
 
 <br>
 
 <h2>research</h2>
 
-My PhD goal is to address fundamental robotics problems where I can **(i) leverage structure for efficient and generalizable modeling and decision-making**, e.g. contact-rich manipulation, and **(ii) close the loop between offline design and online adaptation**, e.g. sim<->real. I am driven by **structured scaling** for robot learning to enable data efficiency, high performance, and out-of-distribution generalization—key steps toward achieving embodied intelligence.
+My PhD goal is to address fundamental challenges in robot control and learning by: **(i) leveraging structure for efficient and generalizable modeling and decision-making**, **(ii) closing the loop between offline design and online adaptation**, and **(ii) providing formal performance guarantees in the real world, around humans**. 
 
-**<span style="color:tomato">I am seeking PhD positions beginning Fall 2025!</span>**
+I’m open to exploring various theoretical and practical aspects of robotics, drawing on my background in control theory, differentiable optimization, and machine learning.
+
+**<span style="color:coral">I am seeking PhD positions beginning Fall 2025!</span>**

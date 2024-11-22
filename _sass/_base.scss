@@ -36,6 +36,10 @@ hr {
   border-top: 1px solid var(--global-divider-color);
 }
 
+small {
+  font-size: 90%;
+}
+
 table {
   td,
   th {
@@ -230,7 +234,7 @@ ul.task-list input[type="checkbox"] {
 
 @media (min-width: 576px) {
   .profile {
-    width: 30%;
+    width: 25%;
 
     .address {
       p {
